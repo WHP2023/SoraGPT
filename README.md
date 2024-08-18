@@ -2,13 +2,12 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<title>如何使用Wildcard一键升级到GPT-4o</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header>
     <h1>【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</h1>
-    <p>发表于2024-2-11 | 更新于2024-05-14 | GPT-4o</p>
+    <p>发表于2024-2-11 | 更新于2024-08-18 | GPT-4o</p>
     <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
 </header>
 
@@ -64,9 +63,9 @@
     <p>正所谓师夷长技以制夷也。</p>
     <p>所幸，经过一番摸索和尝试以及失败，我终于找到了一条能稳定、安全、快捷的用上GPT-4o的方法，那就是：通过虚拟卡来开通</p>
     <p>GPT订阅。</p>
-    <p><img src="./gpt4o1.png" alt="">
+    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/gpt4o1.png" alt="">
         </p>
-    <p><img src="./gpt4o2.png" alt="">
+    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/gpt4o2.png" alt="">
         </p>
 </section>
 
@@ -82,27 +81,27 @@
         <h3>2.2 如何开通虚拟卡</h3>
         <p>首先点击链接进入 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
         <p>进入网站首页之后，点击立即使用</p>
-        <p><img src="./uu1.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu1.png" alt="">
         </p>
         <p>然后点击“去注册”</p>
-        <p><img src="./uu2.png" alt="">
-        <p><img src="./uu3.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu2.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu3.png" alt="">
         </p>
         <p>然后输入你的手机号码接收验证码（使用邀请码SORAGPT可以在开卡时优惠2美元）</p>
-        <p><img src="./uu4.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu4.png" alt="">
         </p>
         <p>然后填写你的个人信息</p>
-        <p><img src="./uu5.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu5.png" alt="">
         </p>
         <p>点击下一步，进行支付宝扫码认证（不需要人脸或身份证）
 
 </p>
-        <p><img src="./uu6.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu6.png" alt="">
         </p>
         <p>支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。此外，如果你是从上面的链接进入，可以得到2美金优惠
 
 </p>
-        <p><img src="./uu7.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu7.png" alt="">
         </p>
         <p>支付之后需要几分钟的时间等待开通成功。开卡之后，进入主页面，点击一键升级ChatGPT。</p>
         <p>这里千万要注意，最好不要使用outlook.com、hotmail、live.cn邮箱注册的gpt账号，否则可能有封号的风险，建议使用</p>
@@ -110,15 +109,15 @@
         <p>免国外手机号注册gpt可以参考这篇文章：<a target="_blank"  href="http://www.quxiedu.com/how_to_update_GPT4/how_to_register_chatgpt_without_phone.html">【绝对教会】国内ChatGPT账号注册教程，无需手机验证码（2024年3月更新)</a>
 
 </p>
-        <p><img src="./uu8.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu8.png" alt="">
         </p>
         <p>按照图中提示，将GPT升级链接复制到输入框里，再点击一键升级。
 
 </p>
-        <p><img src="./uu9.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu9.png" alt="">
         </p>
         <p>上面全部流程走完之后，就可以畅快使用GPT-4o了！</p>
-        <p><img src="./gpt4o.png" alt="">
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/gpt4o.png" alt="">
         </p>
     </article>
 </section>
@@ -139,7 +138,7 @@
     <h1>你好，我是萍哥的CV</h1>
 <p>亲爱的读者你好，我是萍哥的CV，一个专注于AI的研究生。 最新原创的文章都先发布在公众号，欢迎关注哦~，</p>
 <p>扫描下方二维码，带你第一时间了解ChatGPT、Sora、Midjourney最新动态！</p>
-<img src="./v.png" alt="" >
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
 </footer>
 
 </body>
