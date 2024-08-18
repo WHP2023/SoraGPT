@@ -8,20 +8,10 @@
 <header>
     <h1>【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</h1>
     <p>发表于2024-2-11 | 更新于2024-08-18 | GPT-4o</p>
+    <p>如有其他疑问可以加以下微信二维码联系</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
     <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
 </header>
-
-<section>
-    <h2>其他精选文章：</h2>
-    <ol>
-        <li>Sora <a target="_blank" href="https://blog.csdn.net/qq_43552933/article/details/136330965?spm=1001.2014.3001.5502">【推荐】OpenAI的Sora深度解析</a></li>
-        <li>ChatGPT <a target="_blank" href="http://www.quxiedu.com/how_to_update_GPT4/SoraGPT.html">【推荐】一键升级GPT-4o保姆级教程</a></li>
-        <li>Onlyfans <a target="_blank" href="http://www.quxiedu.com/how_to_update_GPT4/onlyfans.html">【推荐】OnlyFans订阅保姆级教程</a></li>
-        <li>Midjourney <a target="_blank" href="http://www.quxiedu.com/how_to_update_GPT4/SoraGPT.html">推荐】Midjourney订阅保姆级教程</a></li>
-        <li>虚拟信用卡 <a target="_blank" href="http://www.quxiedu.com/how_to_update_GPT4/SoraGPT.html">推荐】虚拟信用卡订阅保姆级教程</a></li>
-        <li>其他 </li>
-    </ol>
-</section>
 
 <section>
     <h2>目录</h2>
@@ -106,7 +96,6 @@
         <p>支付之后需要几分钟的时间等待开通成功。开卡之后，进入主页面，点击一键升级ChatGPT。</p>
         <p>这里千万要注意，最好不要使用outlook.com、hotmail、live.cn邮箱注册的gpt账号，否则可能有封号的风险，建议使用</p>
         <p>proton.me邮箱注册的gpt账号（无需手机验证码）。</p>
-        <p>免国外手机号注册gpt可以参考这篇文章：<a target="_blank"  href="http://www.quxiedu.com/how_to_update_GPT4/how_to_register_chatgpt_without_phone.html">【绝对教会】国内ChatGPT账号注册教程，无需手机验证码（2024年3月更新)</a>
 
 </p>
         <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu8.png" alt="">
@@ -131,14 +120,16 @@
         <li>GPT订阅费（20$+0.7$手续费）</li>
         <li>总计30.69$，折合人民币约220.11元（参考汇率7.17）</li>
     </ol>
-    <p>参考文章：<a href="http://www.quxiedu.com/how_to_update_GPT4/bewildcard-upgrade-chatgpt4.html">【保姆级】国内如何用gpt4？如何升级gpt4？用wildcard一键升级chatgpt4.0保姆级教程</a></p>
 </section>
 
 <footer>
     <h1>你好，我是萍哥的CV</h1>
 <p>亲爱的读者你好，我是萍哥的CV，一个专注于AI的研究生。 最新原创的文章都先发布在公众号，欢迎关注哦~，</p>
 <p>扫描下方二维码，带你第一时间了解ChatGPT、Sora、Midjourney最新动态！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>更多计算机视觉最新最先进算法请扫描关注以下公众号</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" alt="" >
 </footer>
 
 </body>
