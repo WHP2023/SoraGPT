@@ -125,7 +125,7 @@
 <p>如有其他疑问可以加以下微信二维码联系</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
 <p>更多计算机视觉最新最先进算法请扫描关注以下公众号</p>
-<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="500" height="500" alt="" >
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="400" height="400" alt="" >
 </footer>
 
 </body>
