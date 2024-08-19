@@ -55,7 +55,7 @@
     <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/gpt4o2.png" alt="">
         </p>
 </section>
-
+<h2 id="section2">第二部分</h2>
 <section>
     <h2>2. 如何用WildCard来开通GPT-4o</h2>
     <article>
