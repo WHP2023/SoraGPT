@@ -187,17 +187,17 @@
 </section>
 
 <h2>2.2使用Wildcard一键注册服务</h2>
-<section>
-    <p>首先进入wildcard官网，然后点击“我的服务”，可以看到有一个“一键注册OpenAI账户”，然后点击“一键注册”</p>
-    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT3.png" alt=""></p>
-    
-    <p>这个一键注册服务是收费的，大概一美元也就是7人民币每次。付款时，可以通过余额购买或者线上购买。余额购买就是用你的虚拟信用卡购买，线上购买就是直接用支付宝进行扫码支付。</p>
-    <p>这两种方式都是可以的，根据个人需要选择。</p>
-    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT4.png" alt=""></p>
 
-    <p>购买完之后，会给你提供一个账号和密码，然后你就可以登录并畅快的使用ChatGPT啦</p>
-    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT5.png" alt=""></p>
-</section>
+<p>首先进入wildcard官网，然后点击“我的服务”，可以看到有一个“一键注册OpenAI账户”，然后点击“一键注册”</p>
+<p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT3.png" alt=""></p>
+
+<p>这个一键注册服务是收费的，大概一美元也就是7人民币每次。付款时，可以通过余额购买或者线上购买。余额购买就是用你的虚拟信用卡购买，线上购买就是直接用支付宝进行扫码支付。</p>
+<p>这两种方式都是可以的，根据个人需要选择。</p>
+<p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT4.png" alt=""></p>
+
+<p>购买完之后，会给你提供一个账号和密码，然后你就可以登录并畅快的使用ChatGPT啦</p>
+<p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT5.png" alt=""></p>
+
 
 <section>
     <h2>3. 结语</h2>
