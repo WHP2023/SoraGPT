@@ -30,9 +30,9 @@
     <h2>0. 【必看】开通步骤简述</h2>
     <p>开通GPT-4o的步骤简要总结如下：</p>
     <ol>
-        <li>1.使用<a target="_blank" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
-        <li>2.开卡后，进入WIldcard首页升级页面，点击“一键升级ChatGPT”进行开通</li>
-        <li>3.完成支付后就开通成功啦</li>
+        <li>使用<a target="_blank" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
+        <li>开卡后，进入WIldcard首页升级页面，点击“一键升级ChatGPT”进行开通</li>
+        <li>完成支付后就开通成功啦</li>
     </ol>
     <p>总费用：开卡费9.9美元+GPT订阅费用（20美元），共计人民币约220.11元</p>
     <p>全程使用支付宝支付，安全快捷。</p>
@@ -172,21 +172,21 @@
 <section>
  <h3>2.1开通wildcard虚拟信用卡（开通步骤如下）：</h3>
     <ol>
-        <li>1.首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT"> WildCard 一分钟开卡，轻松订阅海外软件服务</a></li>
-        <li>2.进入网站首页之后，点击立即体验</li>
-        <li>3.然后点击“立即开卡</li>
-        <li>4.然后输入你的手机号码接收验证码（使用官方邀请码SORAGPT可以在开卡时优惠2美元）</li>
-        <li>5.然后填写你的个人信息</li>
-        <li>6.点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</li>
-        <li>7.支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。</li>
-        <li>8.支付之后需要几分钟的时间等待开通成功。</li>
-        <li>9.开通成功之后就可以使用虚拟信用卡来订阅服务了，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</li>
+        <li>首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT"> WildCard 一分钟开卡，轻松订阅海外软件服务</a></li>
+        <li>进入网站首页之后，点击立即体验</li>
+        <li>然后点击“立即开卡</li>
+        <li>然后输入你的手机号码接收验证码（使用官方邀请码SORAGPT可以在开卡时优惠2美元）</li>
+        <li>然后填写你的个人信息</li>
+        <li>点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</li>
+        <li>支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。</li>
+        <li>支付之后需要几分钟的时间等待开通成功。</li>
+        <li>开通成功之后就可以使用虚拟信用卡来订阅服务了，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</li>
         <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT2.png" alt=""></p>
     </ol>
     
 </section>
 
-<h2>2.2使用Wildcard一键注册服务</h2>
+<h3>2.2使用Wildcard一键注册服务</h3>
 
 <p>首先进入wildcard官网，然后点击“我的服务”，可以看到有一个“一键注册OpenAI账户”，然后点击“一键注册”</p>
 <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT3.png" alt=""></p>
