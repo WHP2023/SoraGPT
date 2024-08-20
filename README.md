@@ -6,8 +6,8 @@
 </head>
 <body>
 <header>
-    <h1>【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</h1>
-    <p id="p1"> 发表于2024-2-11 | 更新于2024-08-18 | GPT-4o</p>
+    <h1 id="p1">【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</h1>
+    <p> 发表于2024-2-11 | 更新于2024-08-18 | GPT-4o</p>
     <p>如有其他疑问可以加以下微信二维码联系</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
     <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
@@ -180,8 +180,9 @@
         <li>9.开通成功之后就可以使用虚拟信用卡来订阅服务了，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</li>
         <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT2.png" alt=""></p>
     </ol>
-
-    <li>2.2使用Wildcard一键注册服务</li>
+    
+    <p><li>2.2使用Wildcard一键注册服务</li></p>
+    
     <p>首先进入wildcard官网，然后点击“我的服务”，可以看到有一个“一键注册OpenAI账户”，然后点击“一键注册”</p>
     <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT3.png" alt=""></p>
     
