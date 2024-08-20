@@ -166,7 +166,11 @@
     <p>开通一张wildcard虚拟信用卡</p>
     <p>利用wildcard的一键注册服务，注册chatgpt3.5的账号</p>
     
-    <h3>2.1开通wildcard虚拟信用卡（开通步骤如下）：</h3>
+   
+</section>
+
+<section>
+ <h3>2.1开通wildcard虚拟信用卡（开通步骤如下）：</h3>
     <ol>
         <li>1.首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT"> WildCard 一分钟开卡，轻松订阅海外软件服务</a></li>
         <li>2.进入网站首页之后，点击立即体验</li>
