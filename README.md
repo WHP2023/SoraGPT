@@ -16,13 +16,13 @@
 <section>
     <h2>目录</h2>
     <ol>
-        <li>0. 【必看】开通步骤简述</li>
-        <li>1. ChatGPT介绍</li>
-        <li>2. 如何用WildCard来开通GPT-4o<ol>
-              <li>2.1 什么是虚拟信用卡</li>
-              <li>2.2 如何开通虚拟卡</li>
+        <li>【必看】开通步骤简述</li>
+        <li>ChatGPT介绍</li>
+        <li>如何用WildCard来开通GPT-4o<ol>
+              <li>什么是虚拟信用卡</li>
+              <li>如何开通虚拟卡</li>
         </ol></li>
-        <li>3. 总结</li>
+        <li>总结</li>
     </ol>
 </section>
 
@@ -139,12 +139,12 @@
 <section>
     <h2>目录</h2>
     <ol>
-        <li>1. ChatGPT介绍</li>
-        <li>2. 如何一键注册ChatGPT账号<ol>
-              <li>2.1 开通wildcard虚拟信用卡：</li>
-              <li>2.2 使用Wildcard一键注册服务</li>
+        <li>ChatGPT介绍</li>
+        <li>如何一键注册ChatGPT账号<ol>
+              <li>开通wildcard虚拟信用卡：</li>
+              <li>使用Wildcard一键注册服务</li>
         </ol></li>
-        <li>3. 总结</li>
+        <li>总结</li>
     </ol>
 </section>
 
