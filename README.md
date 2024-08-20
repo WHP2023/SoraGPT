@@ -7,7 +7,7 @@
 <body>
 <header>
     <h1>【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</h1>
-    <p>发表于2024-2-11 | 更新于2024-08-18 | GPT-4o</p>
+    <p id="p1"> 发表于2024-2-11 | 更新于2024-08-18 | GPT-4o</p>
     <p>如有其他疑问可以加以下微信二维码联系</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
     <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
@@ -117,6 +117,89 @@
     </ol>
 </section>
 <li>使用<a target="_blank" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
+
+<footer>
+    <h1>你好，我是萍哥的CV</h1>
+<p>亲爱的读者你好，我是萍哥的CV，一个专注于AI的研究生。 最新原创的文章都先发布在公众号，欢迎关注哦~，</p>
+<p>扫描下方二维码，带你第一时间了解ChatGPT、Sora、Midjourney最新动态！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>更多计算机视觉最新最先进算法请扫描关注以下公众号</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
+</footer>
+
+
+
+<h1>【保姆级】快速注册ChatGPT账号，这样操作更便捷！</h1>
+<p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
+
+<section>
+    <h2>目录</h2>
+    <ol>
+        <li>1. ChatGPT介绍</li>
+        <li>2. 如何一键注册ChatGPT账号<ol>
+              <li>2.1 开通wildcard虚拟信用卡：</li>
+              <li>2.2 使用Wildcard一键注册服务</li>
+        </ol></li>
+        <li>3. 总结</li>
+    </ol>
+</section>
+
+<p>随着人工智能的不断进步，ChatGPT也变得愈加强大。它几乎可以完成你所能想到的任何任务，绝对是一个高效的生产力工具。</p>
+<p>不过，对于许多国内用户来说，直接使用ChatGPT可能会有些困难。别担心，今天我将教大家如何轻松注册一个ChatGPT账号。</p>
+<p id="p2">如果你希望订阅ChatGPT 4.0，可以参考这篇文章：<a target="_blank" href="https://github.com/WHP2023/SoraGPT#p1">【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</a></p>
+
+<section>
+    <h2>1. ChatGPT介绍</h2>
+    <p>ChatGPT是一个基于生成预训练变换器的人工智能语言模型。</p>
+    <p>它的工作原理是利用一个庞大的文本数据库（通常来源于互联网），让模型通过数百亿个参数反复处理这些文本进行训练。</p>
+    <p>正如“读书百遍，其义自见”所说，经过如此大量的文本学习，ChatGPT自然能够具备类似于人类的语言能力。</p>
+    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT1.png" alt=""></p>
+</section>
+
+<section>
+    <h2>2.如何一键注册ChatGPT账号</h2>
+    <p>步骤概述：</p>
+    <p>开通一张wildcard虚拟信用卡</p>
+    <p>利用wildcard的一键注册服务，注册chatgpt3.5的账号</p>
+    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT1.png" alt=""></p>
+    
+    <h2>2.1开通wildcard虚拟信用卡（开通步骤如下）：</h2>
+    <ol>
+        <li>1.首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT"> WildCard 一分钟开卡，轻松订阅海外软件服务</a></li>
+        <li>2.进入网站首页之后，点击立即体验</li>
+        <li>3.然后点击“立即开卡</li>
+        <li>4.然后输入你的手机号码接收验证码（使用官方邀请码SORAGPT可以在开卡时优惠2美元）</li>
+        <li>5.然后填写你的个人信息</li>
+        <li>6.点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</li>
+        <li>7.支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。</li>
+        <li>8.支付之后需要几分钟的时间等待开通成功。</li>
+        <li>9.开通成功之后就可以使用虚拟信用卡来订阅服务了，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</li>
+        <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT2.png" alt=""></p>
+    </ol>
+
+    <li>2.2使用Wildcard一键注册服务</li>
+    <p>首先进入wildcard官网，然后点击“我的服务”，可以看到有一个“一键注册OpenAI账户”，然后点击“一键注册”</p>
+    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT3.png" alt=""></p>
+    
+    <p>这个一键注册服务是收费的，大概一美元也就是7人民币每次。付款时，可以通过余额购买或者线上购买。余额购买就是用你的虚拟信用卡购买，线上购买就是直接用支付宝进行扫码支付。</p>
+    <p>这两种方式都是可以的，根据个人需要选择。</p>
+    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT4.png" alt=""></p>
+
+    <p>购买完之后，会给你提供一个账号和密码，然后你就可以登录并畅快的使用ChatGPT啦</p>
+    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT5.png" alt=""></p>
+ 
+</section>
+
+<section>
+    <h2>3. 结语</h2>
+    <p>总的讲来，这个一键注册服务用起来还是很方便的。</p>
+    <p>对于那些怕麻烦、不想自己动手的用户来讲，几分钟的时间就能搞定，而且价格也不贵，才七块钱，可以说是很方便实惠的。</p>
+    <p >原文链接：<a target="_blank" href="https://github.com/WHP2023/SoraGPT#p2">【保姆级】快速注册ChatGPT账号，这样操作更便捷！</a></p>
+</section>
 
 <footer>
     <h1>你好，我是萍哥的CV</h1>
