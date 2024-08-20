@@ -165,7 +165,6 @@
     <p>步骤概述：</p>
     <p>开通一张wildcard虚拟信用卡</p>
     <p>利用wildcard的一键注册服务，注册chatgpt3.5的账号</p>
-    <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT1.png" alt=""></p>
     
     <h2>2.1开通wildcard虚拟信用卡（开通步骤如下）：</h2>
     <ol>
