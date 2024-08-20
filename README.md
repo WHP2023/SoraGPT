@@ -186,9 +186,8 @@
     
 </section>
 
+<h2>2.2使用Wildcard一键注册服务</h2>
 <section>
-    <h2>2.2使用Wildcard一键注册服务</h2>
-    
     <p>首先进入wildcard官网，然后点击“我的服务”，可以看到有一个“一键注册OpenAI账户”，然后点击“一键注册”</p>
     <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT3.png" alt=""></p>
     
