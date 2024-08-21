@@ -16,9 +16,9 @@
 <section>
     <h2>目录</h2>
     <ol>
-        <li>【必看】开通步骤简述</li>
-        <li>ChatGPT介绍</li>
-        <li>如何用WildCard来开通GPT-4o<ol>
+        <li><a href="#p11"><strong>【必看】开通步骤简述</strong></a></li>
+        <li><a href="#p12"><strong>ChatGPT介绍</strong></a></li>
+        <li><a href="#p13"><strong>如何用WildCard来开通GPT-4o</strong></a><ol>
               <li>什么是虚拟信用卡</li>
               <li>如何开通虚拟卡</li>
         </ol></li>
@@ -27,7 +27,7 @@
 </section>
 
 <section>
-    <h2>0. 【必看】开通步骤简述</h2>
+    <h2 id="p11">0. 【必看】开通步骤简述</h2>
     <p>开通GPT-4o的步骤简要总结如下：</p>
     <ol>
         <li>使用<a target="_blank" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
@@ -44,7 +44,7 @@
 </section>
 
 <section>
-    <h2>1. ChatGPT介绍</h2>
+    <h2 id="p12">1. ChatGPT介绍</h2>
     <p>ChatGPT3.5自从发布以来，便受到了广泛的关注和火热追求。</p>
     <p>而作为3.5升级版的GPT-4o，比3.5会更加稳定、没有字数限制、回答更准确以及支持AI绘图等待，更是受到了大众的欢迎和追捧。</p>
     <p>但受到某些原因限制，在国内并不能直接用上GPT-4o，但这么好的生产力工具，怎么只能让洋人使用呢？洋人会的，我也要会！</p>
@@ -57,7 +57,7 @@
 </section>
 <!-- <h2 id="section2">第二部分</h2> -->
 <section>
-    <h2>2. 如何用WildCard来开通GPT-4o</h2>
+    <h2 id="p13">2. 如何用WildCard来开通GPT-4o</h2>
     <article>
         <h3>2.1 什么是虚拟信用卡</h3>
         <p>简单的说来，就是如果你需要订阅国外的服务（如chatgpt或者onlyfans）的话，就必须要有国外的信用卡。但是国内不是没有办</p>
