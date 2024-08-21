@@ -19,8 +19,8 @@
         <li><a href="#p11"><strong>【必看】开通步骤简述</strong></a></li>
         <li><a href="#p12"><strong>ChatGPT介绍</strong></a></li>
         <li><a href="#p13"><strong>如何用WildCard来开通GPT-4o</strong></a><ol>
-              <li>什么是虚拟信用卡</li>
-              <li>如何开通虚拟卡</li>
+              <li><a href="#p13-1"><strong>什么是虚拟信用卡</strong></a></li>
+              <li><a href="#p13-2"><strong>如何开通虚拟卡</strong></a></li>
         </ol></li>
         <li>总结</li>
     </ol>
@@ -59,13 +59,13 @@
 <section>
     <h2 id="p13">2. 如何用WildCard来开通GPT-4o</h2>
     <article>
-        <h3>2.1 什么是虚拟信用卡</h3>
+        <h3 id="p13-1">2.1 什么是虚拟信用卡</h3>
         <p>简单的说来，就是如果你需要订阅国外的服务（如chatgpt或者onlyfans）的话，就必须要有国外的信用卡。但是国内不是没有办</p>
     <p>法开通国外信用卡吗，所以就需要使用虚拟信用卡，然后用这张虚拟卡去订阅服务。</p>
     <p>这里我比较推荐虚拟卡平台WildCard。</p>
     </article>
     <article>
-        <h3>2.2 如何开通虚拟卡</h3>
+        <h3 id="p13-2">2.2 如何开通虚拟卡</h3>
         <p>首先点击链接进入 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
         <p>进入网站首页之后，点击立即使用</p>
         <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu1.png" alt="">
