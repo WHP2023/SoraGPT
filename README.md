@@ -130,7 +130,7 @@
 
 
 
-<h1>【保姆级】快速注册ChatGPT账号，这样操作更便捷！</h1>
+<h1 id="p2">【保姆级】快速注册ChatGPT账号，这样操作更便捷！</h1>
 <p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
 <p>如有其他疑问可以加以下微信二维码联系</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
@@ -150,7 +150,7 @@
 
 <p>随着人工智能的不断进步，ChatGPT也变得愈加强大。它几乎可以完成你所能想到的任何任务，绝对是一个高效的生产力工具。</p>
 <p>不过，对于许多国内用户来说，直接使用ChatGPT可能会有些困难。别担心，今天我将教大家如何轻松注册一个ChatGPT账号。</p>
-<p id="p2">如果你希望订阅ChatGPT 4.0，可以参考这篇文章：<a target="_blank" href="https://github.com/WHP2023/SoraGPT#p1">【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</a></p>
+<p >如果你希望订阅ChatGPT 4.0，可以参考这篇文章：<a target="_blank" href="https://github.com/WHP2023/SoraGPT#p1">【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</a></p>
 
 <section>
     <h2>1. ChatGPT介绍</h2>
@@ -215,6 +215,82 @@
 <p>更多计算机视觉最新最先进算法请扫描关注以下公众号</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
 </footer>
+
+
+
+<h1 id="p3">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</h1>
+<p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
+
+<section>
+    <h2>目录</h2>
+    <ol>
+        <li>什么是虚拟信用卡</li>
+        <li>如何开通虚拟卡</li>
+        <li>总结</li>
+    </ol>
+</section>
+
+<section>
+    <h2>1. 什么是虚拟信用卡</h2>
+    <p>WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支持通过云闪付充值，不收取消费和提现手续费，特设美国网络环境和英国手机号服务，以及直接客服支持，适合全球业务需求。</p>
+    <p>简单的说来，就是如果你订阅国外的服务（如chatgpt或者onlyfans）的话，需要用到国外的信用卡。而wildcard就可以给你提供一个国外的虚拟信用卡，让你可以去订阅相关服务。</p>
+</section>
+
+<section>
+    <h2>2. 如何开通虚拟卡</h2>
+    <p>开通步骤如下：</p>
+    <p>首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
+    <p>进入网站首页之后，首先点击右上角的注册</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard1.jpg" alt="" >
+
+    <p>然后输入你的手机号码接收验证码</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard2.jpg" alt="" >
+
+    <p>登录之后，点击我的卡片，进到开通虚拟信用卡的界面</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard3.jpg" alt="" >
+
+    <p>点击开通会员</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard4.jpg" alt="" >
+
+    <p>选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。此外，如果你是从上面的链接进入，可以得到2美金优惠</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard5.jpg" alt="" >
+
+    <p>然后点击线上购买，支付开卡费用</p>
+    <p>接着填写你的个人信息</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard6.jpg" alt="" >
+
+    <p>点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard7.jpg" alt="" >
+
+    <p>支付之后需要几分钟的时间等待开通成功。</p>
+    <p>开通成功之后就可以使用虚拟信用卡来订阅服务啦，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</p>
+    <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard8.jpg" alt="" >
+</section>
+
+<section>
+    <h2>总结</h2>
+    <p>开卡网站：WildCard 一分钟开卡，轻松订阅海外软件服务</p>
+    <p>总费用：</p>
+    <ol>
+        <li>开卡费用9.99$（这是一整年的费用，平均每天不到两毛钱）</li>
+        <li>你订阅相关服务的费用，比如chatgpt是20美元一个月。</li>
+    </ol>
+</section>
+
+<footer>
+    <h1>你好，我是萍哥的CV</h1>
+<p>亲爱的读者你好，我是萍哥的CV，一个专注于AI的研究生。 最新原创的文章都先发布在公众号，欢迎关注哦~，</p>
+<p>扫描下方二维码，带你第一时间了解ChatGPT、Sora、Midjourney最新动态！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>更多计算机视觉最新最先进算法请扫描关注以下公众号</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
+</footer>
+
+
 
 </body>
 </html>
