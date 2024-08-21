@@ -245,26 +245,19 @@
     <p>首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
     <p>进入网站首页之后，首先点击右上角的注册</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard1.jpg" alt="" >
-
     <p>然后输入你的手机号码接收验证码</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard2.jpg" alt="" >
-
     <p>登录之后，点击我的卡片，进到开通虚拟信用卡的界面</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard3.jpg" alt="" >
-
     <p>点击开通会员</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard4.jpg" alt="" >
-
     <p>选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算）。此外，如果你是从上面的链接进入，可以得到2美金优惠</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard5.jpg" alt="" >
-
     <p>然后点击线上购买，支付开卡费用</p>
     <p>接着填写你的个人信息</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard6.jpg" alt="" >
-
     <p>点击下一步，进行支付宝扫码认证（不需要人脸或身份证）</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard7.jpg" alt="" >
-
     <p>支付之后需要几分钟的时间等待开通成功。</p>
     <p>开通成功之后就可以使用虚拟信用卡来订阅服务啦，直接在订阅的地方，把下面卡片的信息复制粘贴进去就行了。</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard8.jpg" alt="" >
