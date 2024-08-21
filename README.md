@@ -8,6 +8,7 @@
 <header>
     <h1 id="p1">【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</h1>
     <p> 发表于2024-2-11 | 更新于2024-08-21 | GPT-4o</p>
+    <p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
     <p>如有其他疑问可以加以下微信二维码联系</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
     <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
@@ -22,7 +23,7 @@
               <li><a href="#p13-1"><strong>什么是虚拟信用卡</strong></a></li>
               <li><a href="#p13-2"><strong>如何开通虚拟卡</strong></a></li>
         </ol></li>
-        <li>总结</li>
+        <li><a href="#p14"><strong>总结</strong></a></li>
     </ol>
 </section>
 
@@ -108,7 +109,7 @@
 </section>
 
 <section>
-    <h2>3. 总结</h2>
+    <h2 id="p14">3. 总结</h2>
     <p>开卡网站（从链接进入有2美元优惠）： WildCard 一分钟开卡，轻松订阅海外软件服务总费用：</p>
      <ol>
         <li>开卡费用9.99$（这是一整年的费用，平均每天不到两毛钱）</li>
@@ -139,12 +140,12 @@
 <section>
     <h2>目录</h2>
     <ol>
-        <li>ChatGPT介绍</li>
-        <li>如何一键注册ChatGPT账号<ol>
-              <li>开通wildcard虚拟信用卡：</li>
-              <li>使用Wildcard一键注册服务</li>
+        <li><a href="#p21"><strong>ChatGPT介绍</strong></a></li>
+        <li><a href="#p22"><strong>如何一键注册ChatGPT账号</strong></a><ol>
+              <li><a href="#p22-1"><strong>开通wildcard虚拟信用卡：</strong></a></li>
+              <li><a href="#p22-2"><strong>使用Wildcard一键注册服务</strong></a></li>
         </ol></li>
-        <li>总结</li>
+        <li><a href="#p23"><strong>总结</strong></a></li>
     </ol>
 </section>
 
@@ -153,7 +154,7 @@
 <p >如果你希望订阅ChatGPT 4.0，可以参考这篇文章：<a target="_blank" href="https://github.com/WHP2023/SoraGPT#p1">【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</a></p>
 
 <section>
-    <h2>1. ChatGPT介绍</h2>
+    <h2 id="p21">1. ChatGPT介绍</h2>
     <p>ChatGPT是一个基于生成预训练变换器的人工智能语言模型。</p>
     <p>它的工作原理是利用一个庞大的文本数据库（通常来源于互联网），让模型通过数百亿个参数反复处理这些文本进行训练。</p>
     <p>正如“读书百遍，其义自见”所说，经过如此大量的文本学习，ChatGPT自然能够具备类似于人类的语言能力。</p>
@@ -161,7 +162,7 @@
 </section>
 
 <section>
-    <h2>2.如何一键注册ChatGPT账号</h2>
+    <h2 id="p22">2.如何一键注册ChatGPT账号</h2>
     <p>步骤概述：</p>
     <p>开通一张wildcard虚拟信用卡</p>
     <p>利用wildcard的一键注册服务，注册chatgpt3.5的账号</p>
@@ -170,7 +171,7 @@
 </section>
 
 <section>
- <h3>2.1开通wildcard虚拟信用卡（开通步骤如下）：</h3>
+ <h3 id="p22-1">2.1开通wildcard虚拟信用卡（开通步骤如下）：</h3>
     <ol>
         <li>首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT"> WildCard 一分钟开卡，轻松订阅海外软件服务</a></li>
         <li>进入网站首页之后，点击立即体验</li>
@@ -186,7 +187,7 @@
     
 </section>
 
-<h3>2.2使用Wildcard一键注册服务</h3>
+<h3 id="p22-2">2.2使用Wildcard一键注册服务</h3>
 
 <p>首先进入wildcard官网，然后点击“我的服务”，可以看到有一个“一键注册OpenAI账户”，然后点击“一键注册”</p>
 <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/registerGPT3.png" alt=""></p>
@@ -200,7 +201,7 @@
 
 
 <section>
-    <h2>3. 结语</h2>
+    <h2 id="p23">3. 结语</h2>
     <p>总的讲来，这个一键注册服务用起来还是很方便的。</p>
     <p>对于那些怕麻烦、不想自己动手的用户来讲，几分钟的时间就能搞定，而且价格也不贵，才七块钱，可以说是很方便实惠的。</p>
     <p >原文链接：<a target="_blank" href="https://github.com/WHP2023/SoraGPT#p2">【保姆级】快速注册ChatGPT账号，这样操作更便捷！</a></p>
@@ -227,20 +228,20 @@
 <section>
     <h2>目录</h2>
     <ol>
-        <li>什么是虚拟信用卡</li>
-        <li>如何开通虚拟卡</li>
-        <li>总结</li>
+        <li><a href="#p31"><strong>什么是虚拟信用卡</strong></a></li>
+        <li><a href="#p32"><strong>如何开通虚拟卡</strong></a></li>
+        <li><a href="#p33"><strong>总结</strong></a></li>
     </ol>
 </section>
 
 <section>
-    <h2>1. 什么是虚拟信用卡</h2>
+    <h2 id="p31">1. 什么是虚拟信用卡</h2>
     <p>WildCard 虚拟信用卡提供快速、安全的在线支付解决方案，支持通过云闪付充值，不收取消费和提现手续费，特设美国网络环境和英国手机号服务，以及直接客服支持，适合全球业务需求。</p>
     <p>简单的说来，就是如果你订阅国外的服务（如chatgpt或者onlyfans）的话，需要用到国外的信用卡。而wildcard就可以给你提供一个国外的虚拟信用卡，让你可以去订阅相关服务。</p>
 </section>
 
 <section>
-    <h2>2. 如何开通虚拟卡</h2>
+    <h2 id="p32">2. 如何开通虚拟卡</h2>
     <p>开通步骤如下：</p>
     <p>首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
     <p>进入网站首页之后，首先点击右上角的注册</p>
@@ -264,7 +265,7 @@
 </section>
 
 <section>
-    <h2>总结</h2>
+    <h2 id="p33">总结</h2>
     <p>开卡网站：WildCard 一分钟开卡，轻松订阅海外软件服务</p>
     <p>总费用：</p>
     <ol>
