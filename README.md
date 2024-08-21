@@ -129,7 +129,7 @@
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
 </footer>
 
-
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 id="p2">【保姆级】快速注册ChatGPT账号，这样操作更便捷！</h1>
 <p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
@@ -217,7 +217,7 @@
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
 </footer>
 
-
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 id="p3">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</h1>
 <p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
@@ -284,7 +284,7 @@
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
 </footer>
 
-
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 id="p4">【2024】什么是wildcard虚拟信用卡？wildcard虚拟信用卡平台详解，订阅ChatGPT问题详解</h1>
 <p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
