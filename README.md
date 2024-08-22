@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+![image](https://github.com/user-attachments/assets/288d8834-2c3f-49a6-9c1a-a088d64724ab)![image](https://github.com/user-attachments/assets/8974f6e4-3f4b-4aae-92e8-ec9d26261f04)![image](https://github.com/user-attachments/assets/10d2d4d5-295a-4b44-8292-c888e6ad382f)<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
@@ -508,6 +508,104 @@
 <p>更多计算机视觉最新最先进算法请扫描关注以下公众号</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
 </footer>
+
+<p>-------------------------------------------------------------------------------------------------------------------</p>
+
+<h1 id="p5">【保姆级教程】如何订阅OnlyFans？如何在OnlyFans上面支付？OnlyFans虚拟卡订阅教程</h1>
+<p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
+
+<article class="post-content" id="article-container"><h2><span id="目录">目录</span></h2><!-- toc -->
+
+<ul>
+<li><a href="#0-%E5%BF%85%E7%9C%8B%E5%BC%80%E9%80%9A%E6%AD%A5%E9%AA%A4%E7%AE%80%E8%BF%B0"><strong>0. 【必看】开通步骤简述</strong></a></li>
+<li><a href="#1-%E5%BC%95%E8%A8%80">1. 引言</a></li>
+<li><a href="#2-%E6%B3%A8%E5%86%8Conlyfans%E8%B4%A6%E6%88%B7">2. 注册OnlyFans账户</a></li>
+<li><a href="#3-%E6%B5%8F%E8%A7%88onlyfans%E5%86%85%E5%AE%B9">3. 浏览OnlyFans内容</a></li>
+<li><a href="#4-%E9%80%89%E6%8B%A9%E8%AE%A2%E9%98%85%E6%97%B6%E9%95%BF">4. 选择订阅时长</a></li>
+<li><a href="#5-%E5%BC%80%E9%80%9A%E8%99%9A%E6%8B%9F%E5%8D%A1">5. 开通虚拟卡</a><ul>
+<li><a href="#51-%E4%BB%80%E4%B9%88%E6%98%AF%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1">5.1. 什么是虚拟信用卡</a></li>
+<li><a href="#52-%E5%A6%82%E4%BD%95%E5%BC%80%E9%80%9A%E8%99%9A%E6%8B%9F%E5%8D%A1">5.2. 如何开通虚拟卡</a></li>
+</ul>
+</li>
+<li><a href="#6-%E4%BD%BF%E7%94%A8%E8%99%9A%E6%8B%9F%E5%8D%A1%E8%AE%A2%E9%98%85">6. 使用虚拟卡订阅</a></li>
+<li><a href="#7-%E6%80%BB%E7%BB%93">7. 总结</a></li>
+</ul>
+<!-- tocstop -->
+
+<h2><span id="0-必看开通步骤简述"><strong>0. 【必看】开通步骤简述</strong></span></h2><p>订阅OnlyFans的步骤<strong>简要总结</strong>如下：</p>
+<ol>
+<li>使用<a target="_blank" rel="noopener external nofollow noreferrer" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以<strong>优惠15元人民币</strong>哦）。</li>
+<li>开卡后，进入WIldcard首页，就能看到自己的虚拟信用卡信息</li>
+<li>把虚拟信用卡的信息填写到OnlyFans绑定信用卡界面就行啦</li>
+</ol>
+<p><strong>总费用：</strong>开卡费9.9美元+OnlyFans订阅费用</p>
+<p>全程使用<strong>支付宝支付</strong>，安全快捷。</p>
+<p>此外，大家可能会问一个问题：<strong>为什么在开通虚拟信用卡时需要支付宝认证？</strong></p>
+<p>主要是为了<strong>拒绝xi qian</strong>。因为这是一个面向美元支付的平台，而涉及到美元就很容易涉及到xi qian嘛。所以为了规避这种风险，也为了<strong>更好的保证大家的虚拟卡的安全</strong>（你想想，一个xi qian平台的虚拟卡能安全吗），所以才需要支付宝认证，让那些坏人用不了。</p>
+<p>至于<strong>隐私问题是完全不用担心的</strong>，毕竟只是支付宝认证一下而已，全程不会要求输入任何隐私信息的。这个平台也是靠谱的大平台（老板大有来头，投资数千万），我<strong>本人已经稳定使用半年多了</strong>，大家也可以放心哈。</p>
+<h2><span id="1-引言">1. 引言</span></h2><ul>
+<li><strong>什么是OnlyFans</strong>：OnlyFans是一种内容订阅服务，成立于2016年，允许内容创作者从用户那里获得资金，用户需要支付订阅费用才能查看他们的内容。它在多个领域受到欢迎，包括音乐、健身、摄影，以及成人内容创作。</li>
+<li><strong>目的</strong>：本教程旨在帮助大家如何在OnlyFans上进行订阅和支付，并提供详细指导，帮助大家顺利完成订阅和支付过程。</li>
+</ul>
+<h2><span id="2-注册onlyfans账户">2. 注册OnlyFans账户</span></h2><ul>
+<li><strong>步骤一</strong>：访问<a target="_blank" rel="noopener external nofollow noreferrer" href="https://onlyfans.com/">OnlyFans</a>官网。</li>
+<li><strong>步骤二</strong>：创建账户，填写必要的个人信息。</li>
+<li><strong>步骤三</strong>：邮箱验证及账户激活。</li>
+</ul>
+<h2><span id="3-浏览onlyfans内容">3. 浏览OnlyFans内容</span></h2><ul>
+<li>在onlyfans上面找到你想要订阅的内容，比如 hongkongdoll的</li>
+</ul>
+<h2><span id="4-选择订阅时长">4. 选择订阅时长</span></h2><ul>
+<li><p>选择需要的订阅时长，点击进入支付界面</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans1.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans1.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans1.jpg" alt="image.png"></a></p>
+<p>选择完订阅时长后，需要你填写虚拟卡信息， 接下来我们看如何开通虚拟卡。</p>
+</li>
+</ul>
+<h2><span id="5-开通虚拟卡">5. 开通虚拟卡</span></h2><h3><span id="51-什么是虚拟信用卡">5.1. 什么是虚拟信用卡</span></h3><p>简单的说来，就是如果你需要订阅国外的服务（如chatgpt或者onlyfans）的话，就必须要有国外的信用卡。但是国内不是没有办法开通国外信用卡吗，所以就需要使用虚拟信用卡，然后用这张虚拟卡去订阅服务。</p>
+<p>这里我比较推荐虚拟卡平台WildCard。</p>
+<h3><span id="52-如何开通虚拟卡">5.2. 如何开通虚拟卡</span></h3><p>开通步骤如下：</p>
+<p>首先点击链接进入 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://wildcard.com.cn/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
+<p>进入网站首页，填写相关信息开卡，中途需要用到支付宝认证，但是只需要扫码即可，不需要上传身份证或者人脸识别。</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans2.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans2.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans2.jpg" alt="image.png"></a></p>
+<p>然后点击WIldCard这一栏，这一栏进去之后就是开通虚拟信用卡的</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans3.jpg" data-fancybox="gallery" data-caption="image-20240409222212232" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans3.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans3.jpg" alt="image-20240409222212232"></a></p>
+<p>点击开通会员</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans4.jpg" data-fancybox="gallery" data-caption="image-20240409222243879" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans4.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans4.jpg" alt="image-20240409222243879"></a></p>
+<p>然后输入你的手机号码接收验证码（使用官方邀请码1314可以在开卡时优惠2美元）</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans5.jpg" data-fancybox="gallery" data-caption="image-20240409222313635" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans5.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans5.jpg" alt="image-20240409222313635"></a></p>
+<p>支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算，每天不到两毛钱）。</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans6.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans6.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans6.jpg" alt="image.png"></a></p>
+<p>支付之后需要几分钟的时间等待开通成功。开通成功之后就可以拿到一张虚拟卡。</p>
+<p>然后在onlyfans的链接里面，把下面卡片的信息复制粘贴进去就行了。</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans7.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans7.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans7.jpg" alt="image.png"></a></p>
+<p>详细步骤点击：<a href="https://github.com/WHP2023/SoraGPT#p3">https://github.com/WHP2023/SoraGPT#p3</a></p>
+<h2><span id="6-使用虚拟卡订阅">6. 使用虚拟卡订阅</span></h2><p>接下来详细看如何用购买的虚拟卡订阅onlyfans。</p>
+<p>回到onlyfans，在点击订阅时长之后，提示添加信用卡</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans8.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans8.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans8.jpg" alt="image.png"></a></p>
+<p>然后点击添加信用卡，</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg" alt="image.png"></a></p>
+<p>上面需要的每一项信息，都可以直接在虚拟卡网页上看到，直接像下面这样复制过去即可：</p>
+<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans10.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans10.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans10.jpg" alt="image.png"></a></p>
+<h2><span id="7-总结">7. 总结</span></h2><ul>
+<li>总费用：wildcard开卡费9.99美元 + onlyfans订阅费用</li>
+<li>订阅开通成功之后就可以畅快欣赏onlyfans上面的精彩内容啦</li>
+</ul>
+<p>参考文章：<a href="https://github.com/WHP2023/SoraGPT#p5">【保姆级教程】如何订阅OnlyFans？如何在OnlyFans上面支付？OnlyFans虚拟卡订阅教程</a></p>
+</article>
+
+<footer>
+    <h1>你好，我是萍哥的CV</h1>
+<p>亲爱的读者你好，我是萍哥的CV，一个专注于AI的研究生。 最新原创的文章都先发布在公众号，欢迎关注哦~，</p>
+<p>扫描下方二维码，带你第一时间了解ChatGPT、Sora、Midjourney最新动态！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>更多计算机视觉最新最先进算法请扫描关注以下公众号</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
+</footer>
+
 
 </body>
 </html>
