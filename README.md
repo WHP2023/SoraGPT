@@ -588,7 +588,7 @@
 <p>然后点击添加信用卡，</p>
 <p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg" alt="image.png"></a></p>
 <p>上面需要的每一项信息，都可以直接在虚拟卡网页上看到，直接像下面这样复制过去即可：</p>
-<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans10.jpg" alt="image.png">
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans10.jpg" alt="">
 <h2><span id="7-总结">7. 总结</span></h2><ul>
 <li>总费用：wildcard开卡费9.99美元 + onlyfans订阅费用</li>
 <li>订阅开通成功之后就可以畅快欣赏onlyfans上面的精彩内容啦</li>
