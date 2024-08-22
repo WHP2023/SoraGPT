@@ -560,7 +560,7 @@
 </ul>
 <h2><span id="4-选择订阅时长">4. 选择订阅时长</span></h2><ul>
 <li><p>选择需要的订阅时长，点击进入支付界面</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans1.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans1.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans1.jpg" alt="image.png"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans1.jpg" alt="">
 <p>选择完订阅时长后，需要你填写虚拟卡信息， 接下来我们看如何开通虚拟卡。</p>
 </li>
 </ul>
@@ -569,24 +569,24 @@
 <h3><span id="52-如何开通虚拟卡">5.2. 如何开通虚拟卡</span></h3><p>开通步骤如下：</p>
 <p>首先点击链接进入 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://wildcard.com.cn/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
 <p>进入网站首页，填写相关信息开卡，中途需要用到支付宝认证，但是只需要扫码即可，不需要上传身份证或者人脸识别。</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans2.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans2.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans2.jpg" alt="image.png"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans2.jpg" alt="">
 <p>然后点击WIldCard这一栏，这一栏进去之后就是开通虚拟信用卡的</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans3.jpg" data-fancybox="gallery" data-caption="image-20240409222212232" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans3.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans3.jpg" alt="image-20240409222212232"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans3.jpg" alt="">
 <p>点击开通会员</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans4.jpg" data-fancybox="gallery" data-caption="image-20240409222243879" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans4.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans4.jpg" alt="image-20240409222243879"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans4.jpg" alt="">
 <p>然后输入你的手机号码接收验证码（使用官方邀请码1314可以在开卡时优惠2美元）</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans5.jpg" data-fancybox="gallery" data-caption="image-20240409222313635" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans5.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans5.jpg" alt="image-20240409222313635"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans5.jpg" alt="">
 <p>支付宝认证完之后，选择卡片开通的时长（根据个人需要选择，个人推荐两年的，比较划算，每天不到两毛钱）。</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans6.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans6.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans6.jpg" alt="image.png"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans6.jpg" alt="">
 <p>支付之后需要几分钟的时间等待开通成功。开通成功之后就可以拿到一张虚拟卡。</p>
 <p>然后在onlyfans的链接里面，把下面卡片的信息复制粘贴进去就行了。</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans7.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans7.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans7.jpg" alt="image.png"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans7.jpg" alt="">
 <p>详细步骤点击：<a href="https://github.com/WHP2023/SoraGPT#p3">https://github.com/WHP2023/SoraGPT#p3</a></p>
 <h2><span id="6-使用虚拟卡订阅">6. 使用虚拟卡订阅</span></h2><p>接下来详细看如何用购买的虚拟卡订阅onlyfans。</p>
 <p>回到onlyfans，在点击订阅时长之后，提示添加信用卡</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans8.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans8.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans8.jpg" alt="image.png"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans8.jpg" alt="">
 <p>然后点击添加信用卡，</p>
-<p><a href="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg"><img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg" alt="image.png"></a></p>
+<img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans9.jpg" alt="">
 <p>上面需要的每一项信息，都可以直接在虚拟卡网页上看到，直接像下面这样复制过去即可：</p>
 <img src="https://github.com/WHP2023/SoraGPT/tree/main/image/onlyfans10.jpg" alt="">
 <h2><span id="7-总结">7. 总结</span></h2><ul>
