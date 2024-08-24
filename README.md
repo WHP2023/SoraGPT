@@ -25,6 +25,8 @@
 <tr><td> <strong>Midjourney</strong></td><td>┃<a class="tutorils-link-color-highlight" href="https://github.com/WHP2023/SoraGPT#p7">  <strong>【推荐】【一看就会】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？ </strong></a>┃</td></tr>
 
 <tr><td> <strong>虚拟信用卡</strong></td><td>┃<a class="tutorils-link-color-highlight" href="https://github.com/WHP2023/SoraGPT#p3">  <strong>【推荐】wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程 </strong></a>┃<a href="https://github.com/WHP2023/SoraGPT#p4"> 【2024】什么是wildcard虚拟信用卡？wildcard虚拟信用卡平台详解，订阅ChatGPT问题详解 </a>┃</td></tr>
+</tbody>
+</table>
 
 
 <section>
