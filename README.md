@@ -7,7 +7,7 @@
 <body>
 <header>
     <h1 id="p1">【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</h1>
-    <p> 发表于2024-2-11 | 更新于2024-08-21 | GPT-4o</p>
+    <p> 发表于2024-2-11 | 更新于2024-08-24 | GPT-4o</p>
     <p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
     <p>如有其他疑问可以加以下微信二维码联系</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
