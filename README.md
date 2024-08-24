@@ -14,6 +14,19 @@
     <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
 </header>
 
+<span style="font-size: 24px;"><strong>其他精选文章：</strong></span>
+<table><thead><tr><th>类别</th><th>精选文章</th></tr></thead><tbody>
+<tr><td> <strong>Sora</strong></td><td>┃<a class="tutorils-link-color-highlight" href="https://blog.csdn.net/qq_43552933/article/details/141491890?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22141491890%22%2C%22source%22%3A%22qq_43552933%22%7D" style="font-weight: bold;"> <strong>【推荐】【最新】火出圈的Sora到底是什么？ </strong></a></td>
+
+</tr><tr><td> <strong>ChatGPT</strong></td><td>┃<a class="tutorils-link-color-highlight" href="https://github.com/WHP2023/SoraGPT#p1"> <strong> 【推荐】【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程 </strong></a>┃<a class="tutorils-link-color-highlight" href="https://github.com/WHP2023/SoraGPT#p2"> <strong> 【推荐】【保姆级】快速注册ChatGPT账号，这样操作更便捷！</strong></a>┃</td></tr>
+
+<tr><td> <strong>Onlyfans</strong></td><td>┃  <a class="tutorils-link-color-highlight" href="https://github.com/WHP2023/SoraGPT#p5"> <strong> 【推荐】【保姆级教程】如何订阅OnlyFans？如何在OnlyFans上面支付？OnlyFans虚拟卡订阅教程 </strong></a>┃<a href="https://github.com/WHP2023/SoraGPT#p6"> 【必看】Onlyfans如何使用搜索功能？Onlyfans如何搜索博主？如何在OnlyFans搜索HongkongDoll </a>┃</td></tr>
+
+<tr><td> <strong>Midjourney</strong></td><td>┃<a class="tutorils-link-color-highlight" href="https://github.com/WHP2023/SoraGPT#p7">  <strong>【推荐】【一看就会】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？ </strong></a>┃</td></tr>
+
+<tr><td> <strong>虚拟信用卡</strong></td><td>┃<a class="tutorils-link-color-highlight" href="https://github.com/WHP2023/SoraGPT#p3">  <strong>【推荐】wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程 </strong></a>┃<a href="https://github.com/WHP2023/SoraGPT#p4"> 【2024】什么是wildcard虚拟信用卡？wildcard虚拟信用卡平台详解，订阅ChatGPT问题详解 </a>┃</td></tr>
+
+
 <section>
     <h2>目录</h2>
     <ol>
