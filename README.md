@@ -687,5 +687,126 @@
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
 </footer>
 
+
+
+<p>-------------------------------------------------------------------------------------------------------------------</p>
+
+<h1 id="p7">【一看就会】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？</h1>
+<p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容OnlyFans等多种平台。现在开通即可享受独家优惠！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
+
+
+<article class="post-content" id="article-container"><h2><span id="目录">目录</span></h2><!-- toc -->
+
+<ul>
+<li><a href="#0-%E5%BF%85%E7%9C%8B%E8%AE%A2%E9%98%85%E6%AD%A5%E9%AA%A4%E7%AE%80%E8%BF%B0"><strong>0. 【必看】订阅步骤简述</strong></a></li>
+<li><a href="#1-midjourney%E4%BB%8B%E7%BB%8D"><strong>1. Midjourney介绍</strong></a><ul>
+<li><a href="#11-%E6%96%B0%E6%89%8B%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98"><strong>1.1 新手常见问题</strong></a></li>
+</ul>
+</li>
+<li><a href="#2-midjourney%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B8%80%E4%B8%AA%E6%9C%88"><strong>2. midjourney多少钱一个月</strong></a></li>
+<li><a href="#3-%E5%9B%BD%E5%86%85%E5%A6%82%E4%BD%95%E8%AE%A2%E9%98%85midjourney"><strong>3. 国内如何订阅midjourney</strong></a><ul>
+<li><a href="#31-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%99%9A%E6%8B%9F%E5%8D%A1%E6%9D%A5%E8%AE%A2%E9%98%85midjourney"><strong>3.1 如何使用虚拟卡来订阅midjourney</strong></a></li>
+</ul>
+</li>
+</ul>
+<!-- tocstop -->
+
+<h2><span id="0-必看订阅步骤简述"><strong>0. 【必看】订阅步骤简述</strong></span></h2><p>订阅Midjourney的步骤<strong>简要总结</strong>如下：</p>
+<ol>
+<li>使用<a target="_blank" rel="noopener external nofollow noreferrer" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以<strong>优惠15元人民币</strong>哦）。</li>
+<li>开卡后，进入WIldcard首页，就能看到自己的虚拟卡信息啦</li>
+<li>把虚拟卡信息填写到midjourney绑定信用卡界面就可以开始订阅啦</li>
+</ol>
+<p><strong>总费用：</strong>开卡费9.9美元+midjourney订阅费用</p>
+<p>全程使用<strong>支付宝支付</strong>，安全快捷。</p>
+<p>此外，大家可能会问一个问题：<strong>为什么在开通虚拟信用卡时需要支付宝认证？</strong></p>
+<p>主要是为了<strong>拒绝xi qian</strong>。因为这是一个面向美元支付的平台，而涉及到美元就很容易涉及到xi qian嘛。所以为了规避这种风险，也为了<strong>更好的保证大家的虚拟卡的安全</strong>（你想想，一个xi qian平台的虚拟卡能安全吗），所以才需要支付宝认证，让那些坏人用不了。</p>
+<p>至于<strong>隐私问题是完全不用担心的</strong>，毕竟只是支付宝认证一下而已，全程不会要求输入任何隐私信息的。这个平台也是靠谱的大平台（老板大有来头，投资数千万），我<strong>本人已经稳定使用半年多了</strong>，大家也可以放心哈。</p>
+<h2><span id="1-midjourney介绍"><strong>1. Midjourney介绍</strong></span></h2><p>Midjourney 是一款备受欢迎的人工智能生成图像工具，它可以通过输入文字描述，自动生成精美的图像。与许多其他图像生成工具不同，Midjourney 不需要安装任何软件，也不受个人电脑性能的限制，因为它运行在云端服务器上。要使用 Midjourney，只需拥有一个 Discord 帐号并加入相应的 Discord 频道即可。</p>
+<h3><span id="11-新手常见问题"><strong>1.1 新手常见问题</strong></span></h3><blockquote>
+<p>Q：Midjourney是什么？</p>
+<p>A：一个AI 生成算图工具，只需输入文字就会自动产生图像，Midjourney目前架设在Discord频道上，因此需要有Discord帐号才能使用。</p>
+</blockquote>
+<blockquote>
+<p>Q：Discord是什么？</p>
+<p>A：一款专为社群设计的免费通讯社交软体，类似于LINE或Slack，但功能更为强大，自带机器人与各种程式功能，能够在上面发开自己工具，有网页版与手机版App。.</p>
+</blockquote>
+<blockquote>
+<p>Q：Midjourney是软件吗？需要安装吗？</p>
+<p>A：不用，Midjourney并不是软件，也不用安装，它是一个架设在Discord之下的工具，使用方式只需要在Discord输入文字即可，所以与你电脑本身效能无关，运算中关闭Midjourney也没问题，因为真正运算图片的是云端电脑。.</p>
+</blockquote>
+<h2><span id="2-midjourney多少钱一个月"><strong>2. midjourney多少钱一个月</strong></span></h2><p>下面的表格是我为大家总结的midjourney的不同订阅计划的费用和区别，</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">基础计划</th>
+<th align="center">标准计划</th>
+<th align="center">专业计划</th>
+<th align="center">大型计划</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">每月订阅费用</td>
+<td align="center">$10</td>
+<td align="center">$30</td>
+<td align="center">$60</td>
+<td align="center">$120</td>
+</tr>
+<tr>
+<td align="center">年度订阅费用</td>
+<td align="center">$96（$8 /月）</td>
+<td align="center">$288（$24 /月）</td>
+<td align="center">$576（$48/月）</td>
+<td align="center">$1152($96/月)</td>
+</tr>
+<tr>
+<td align="center">使用限制</td>
+<td align="center">每月可以生成200张图<br>没有fast模式<br>不能免排队生成图</td>
+<td align="center">每月可无限量生成图片<br>15小时fast模式生图时间<br>可以免排队生成图</td>
+<td align="center">有隐私模式，别人看不到你的图和关键词<br>fast模式生图时间有30小时<br>可以免排队生成图</td>
+<td align="center">在专业计划的基础上，有60小时的fast模式</td>
+</tr>
+</tbody></table></div>
+<p>对于一般用户而言，选择<strong>基础计划</strong>或者<strong>标准计划</strong>就可以满足日常使用需求。</p>
+<p>对于商业用途而言，建议选择<strong>专业计划</strong>或者<strong>大型计划</strong>。</p>
+<h2><span id="3-国内如何订阅midjourney"><strong>3. 国内如何订阅midjourney</strong></span></h2><p>目前国内银行卡是支付不了的，原先还可以支付宝支付，现在也不可以了，只能通过国外银行卡支付。</p>
+<p>如果你已经有国外的银行卡，那么你可以直接自己付。</p>
+<p>如果没有，那么可以使用虚拟卡来订阅midjourney</p>
+<h3><span id="31-如何使用虚拟卡来订阅midjourney"><strong>3.1 如何使用虚拟卡来订阅midjourney</strong></span></h3><ol>
+<li><p>首先，去<a target="_blank" rel="noopener external nofollow noreferrer" href="https://bewildcard.com/i/SORAGPT">wildcard</a>上面购买一张虚拟信用卡，可以得到一张虚拟信用卡和卡片信息。这一步需要9.99美元的开卡费，开完卡之后这就是你的信用卡了，你可以用支付宝向里面充值金额来支付midjourney的订阅。wildcard手把手教学流程参考：<a href="https://github.com/WHP2023/SoraGPT#p3">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</a></p>
+<p><a href="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney1.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney1.jpg"><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney1.jpg" alt="image.png"></a></p>
+</li>
+<li><p>登录你的<a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.midjourney.com/explore">Midjourney账户</a>，进入订阅中心（如果是在Discord频道里，则是在频道输入框输入/subscribe，然后点击一下，再回车）</p>
+</li>
+<li><p>选择您需要订阅的会员计划，选择月支付/年支付</p>
+</li>
+<li><p>进入支付页面，选择银行卡支付</p>
+</li>
+<li><p>把你在第一步购买到的虚拟信用卡卡号、有效期、CVV码等信息填写到对应的地方<a href="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney2.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney2.jpg"><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney2.jpg" alt="image.png"></a></p>
+</li>
+<li><p>填写完信息之后，点击确认订阅就可以啦</p>
+</li>
+</ol>
+<hr>
+<p>参考链接：<a href="https://github.com/WHP2023/SoraGPT#p7">【一看就会】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？</a></p>
+</article>
+
+
+<footer>
+    <h1>你好，我是萍哥的CV</h1>
+<p>亲爱的读者你好，我是萍哥的CV，一个专注于AI的研究生。 最新原创的文章都先发布在公众号，欢迎关注哦~，</p>
+<p>扫描下方二维码，带你第一时间了解ChatGPT、Sora、Midjourney最新动态！</p>
+<p>如有其他疑问可以加以下微信二维码联系</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
+<p>更多计算机视觉最新最先进算法请扫描关注以下公众号</p>
+<img src="https://github.com/WHP2023/SoraGPT/blob/main/image/公众号二维码.jpg" width="445" height="427" alt="" >
+</footer>
+
+
+
 </body>
 </html>
