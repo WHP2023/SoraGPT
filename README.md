@@ -8,7 +8,7 @@
 <header>
     <h1 id="p1">【保姆级】国内如何用GPT-4o? 如何升级GPT-4o? 使用wildcard一键升级GPT-4o的保姆级教程</h1>
     <p> 发表于2024-2-11 | 更新于2024-09-13 | GPT-4o</p>
-    <p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容Claude-4.0等多种平台。现在开通即可享受独家优惠！</p>
+    <p>【特别推荐】使用 <a target="_blank" href="https://yeka.ai/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容Claude-4.0等多种平台。现在开通即可享受独家优惠！</p>
     <p>如有其他疑问可以加以下微信二维码联系</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
     <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
@@ -44,7 +44,7 @@
     <h2 id="p11">0. 【必看】开通步骤简述</h2>
     <p>开通GPT-4o的步骤简要总结如下：</p>
     <ol>
-        <li>使用<a target="_blank" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
+        <li>使用<a target="_blank" href="https://yeka.ai/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
         <li>开卡后，进入WIldcard首页升级页面，点击“一键升级ChatGPT”进行开通</li>
         <li>完成支付后就开通成功啦</li>
     </ol>
@@ -80,7 +80,7 @@
     </article>
     <article>
         <h3 id="p13-2">2.2 如何开通虚拟卡</h3>
-        <p>首先点击链接进入 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
+        <p>首先点击链接进入 <a target="_blank" href="https://yeka.ai/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
         <p>进入网站首页之后，点击立即使用</p>
         <p><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/uu1.png" alt="">
         </p>
@@ -130,7 +130,7 @@
         <li>总计30.69$，折合人民币约220.11元（参考汇率7.17）</li>
     </ol>
 </section>
-<li>使用<a target="_blank" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
+<li>使用<a target="_blank" href="https://yeka.ai/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以优惠15元人民币哦）。</li>
 
 <footer>
     <h1>你好，我是萍哥的CV</h1>
@@ -145,7 +145,7 @@
 <p>-------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 id="p2">【保姆级】快速注册ChatGPT账号，这样操作更便捷！</h1>
-<p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容等多种平台。现在开通即可享受独家优惠！</p>
+<p>【特别推荐】使用 <a target="_blank" href="https://yeka.ai/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容等多种平台。现在开通即可享受独家优惠！</p>
 <p>如有其他疑问可以加以下微信二维码联系</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
 <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
@@ -198,7 +198,7 @@
 <section>
  <h3 id="p22-1">2.1开通wildcard虚拟信用卡（开通步骤如下）：</h3>
     <ol>
-        <li>首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT"> WildCard 一分钟开卡，轻松订阅海外软件服务</a></li>
+        <li>首先点击链接进入<a target="_blank" href="https://yeka.ai/i/SORAGPT"> WildCard 一分钟开卡，轻松订阅海外软件服务</a></li>
         <li>进入网站首页之后，点击立即体验</li>
         <li>然后点击“立即开卡</li>
         <li>然后输入你的手机号码接收验证码（使用官方邀请码SORAGPT可以在开卡时优惠2美元）</li>
@@ -245,7 +245,7 @@
 <p>-------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 id="p3">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</h1>
-<p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容Claude-4.0等多种平台。现在开通即可享受独家优惠！</p>
+<p>【特别推荐】使用 <a target="_blank" href="https://yeka.ai/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容Claude-4.0等多种平台。现在开通即可享受独家优惠！</p>
 <p>如有其他疑问可以加以下微信二维码联系</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
 <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
@@ -281,7 +281,7 @@
 <section>
     <h2 id="p32">2. 如何开通虚拟卡</h2>
     <p>开通步骤如下：</p>
-    <p>首先点击链接进入<a target="_blank" href="https://bewildcard.com/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
+    <p>首先点击链接进入<a target="_blank" href="https://yeka.ai/i/SORAGPT">WildCard 一分钟开卡，轻松订阅海外软件服务</a></p>
     <p>进入网站首页之后，首先点击右上角的注册</p>
     <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/wildcard1.jpg" alt="" >
     <p>然后输入你的手机号码接收验证码</p>
@@ -325,7 +325,7 @@
 <p>-------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 id="p4">【2024】什么是wildcard虚拟信用卡？wildcard虚拟信用卡平台详解，订阅ChatGPT问题详解</h1>
-<p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容Claude-4.0等多种平台。现在开通即可享受独家优惠！</p>
+<p>【特别推荐】使用 <a target="_blank" href="https://yeka.ai/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容Claude-4.0等多种平台。现在开通即可享受独家优惠！</p>
 <p>如有其他疑问可以加以下微信二维码联系</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
 <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
@@ -563,7 +563,7 @@
 <p>-------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 id="p7">【一看就会】国内如何购买midjourney？midjourney购买教程？midjourney注册方式？</h1>
-<p>【特别推荐】使用 <a target="_blank" href="https://bewildcard.com/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容Claude-4.0等多种平台。现在开通即可享受独家优惠！</p>
+<p>【特别推荐】使用 <a target="_blank" href="https://yeka.ai/i/SORAGPT">Wildcard 虚拟信用卡</a>，轻松升级至GPT-4.0，并兼容Claude-4.0等多种平台。现在开通即可享受独家优惠！</p>
 <p>如有其他疑问可以加以下微信二维码联系</p>
 <img src="https://github.com/WHP2023/SoraGPT/blob/main/image/v.png" alt="" >
 <p>先做个广告：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：zwlhxp666</p>
@@ -600,7 +600,7 @@
 
 <h2><span id="0-必看订阅步骤简述"><strong>0. 【必看】订阅步骤简述</strong></span></h2><p>订阅Midjourney的步骤<strong>简要总结</strong>如下：</p>
 <ol>
-<li>使用<a target="_blank" rel="noopener external nofollow noreferrer" href="https://bewildcard.com/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以<strong>优惠15元人民币</strong>哦）。</li>
+<li>使用<a target="_blank" rel="noopener external nofollow noreferrer" href="https://yeka.ai/i/SORAGPT">虚拟信用卡平台WildCard</a>开通虚拟信用卡（从链接进入可以<strong>优惠15元人民币</strong>哦）。</li>
 <li>开卡后，进入WIldcard首页，就能看到自己的虚拟卡信息啦</li>
 <li>把虚拟卡信息填写到midjourney绑定信用卡界面就可以开始订阅啦</li>
 </ol>
@@ -661,7 +661,7 @@
 <p>如果你已经有国外的银行卡，那么你可以直接自己付。</p>
 <p>如果没有，那么可以使用虚拟卡来订阅midjourney</p>
 <h3><span id="31-如何使用虚拟卡来订阅midjourney"><strong>3.1 如何使用虚拟卡来订阅midjourney</strong></span></h3><ol>
-<li><p>首先，去<a target="_blank" rel="noopener external nofollow noreferrer" href="https://bewildcard.com/i/SORAGPT">wildcard</a>上面购买一张虚拟信用卡，可以得到一张虚拟信用卡和卡片信息。这一步需要9.99美元的开卡费，开完卡之后这就是你的信用卡了，你可以用支付宝向里面充值金额来支付midjourney的订阅。wildcard手把手教学流程参考：<a href="https://github.com/WHP2023/SoraGPT#p3">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</a></p>
+<li><p>首先，去<a target="_blank" rel="noopener external nofollow noreferrer" href="https://yeka.ai/i/SORAGPT">wildcard</a>上面购买一张虚拟信用卡，可以得到一张虚拟信用卡和卡片信息。这一步需要9.99美元的开卡费，开完卡之后这就是你的信用卡了，你可以用支付宝向里面充值金额来支付midjourney的订阅。wildcard手把手教学流程参考：<a href="https://github.com/WHP2023/SoraGPT#p3">wildcard使用教程？如何用wildcard订阅国外服务？wildcard保姆级教程</a></p>
 <p><a href="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney1.jpg" data-fancybox="gallery" data-caption="image.png" data-thumb="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney1.jpg"><img src="https://github.com/WHP2023/SoraGPT/blob/main/image/midjourney1.jpg" alt="image.png"></a></p>
 </li>
 <li><p>登录你的<a target="_blank" rel="noopener external nofollow noreferrer" href="https://www.midjourney.com/explore">Midjourney账户</a>，进入订阅中心（如果是在Discord频道里，则是在频道输入框输入/subscribe，然后点击一下，再回车）</p>
